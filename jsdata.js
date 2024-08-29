@@ -27,6 +27,6 @@ console.log("Here I have made 250 a string and the addition looks like it:", ora
 
 var orangePrice = 220;
 var chocolatePrice = 400;
-var applePrice = parseInt ('250');
+var applePrice = parseInt ('250'); 
 
 console.log("Interesting thing: Here I have made 250 an integer using parseInt function and the addition looks ok again:", orangePrice+applePrice);
